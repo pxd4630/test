@@ -1,0 +1,16 @@
+﻿  kmp.cc
+D:\code\test.c\KMP\kmp.h(64,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“kmp.cc”)
+  
+D:\code\test.c\KMP\kmp.h(95,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“kmp.cc”)
+  
+D:\code\test.c\KMP\kmp.h(96,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“kmp.cc”)
+  
+D:\code\test.c\KMP\kmp.h(108,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“kmp.cc”)
+  
+D:\code\test.c\KMP\kmp.cc(23,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\test.c\KMP\kmp.cc(27,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  KMP.vcxproj -> D:\code\test.c\KMP\x64\Debug\KMP.exe

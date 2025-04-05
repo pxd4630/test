@@ -1,0 +1,8 @@
+﻿  Benchmarkcpp.cpp
+  CentralCache.cpp
+  PageCache.cpp
+  test.cc
+D:\Vs2022Project\highpool\highpool\PageCache.cpp(28,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Vs2022Project\highpool\highpool\PageCache.cpp(60,22): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  highpool.vcxproj -> D:\Vs2022Project\highpool\Debug\highpool.exe

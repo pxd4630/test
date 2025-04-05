@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vs2022Project\\highpool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\PageCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\PageCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\PageCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\PageCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\ConcurrentAlloc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\ConcurrentAlloc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\PageMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\PageMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\CentralCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\CentralCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\ObjectPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\ObjectPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\CentralCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\CentralCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\Benchmarkcpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\Benchmarkcpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\ThreadCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\ThreadCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\test.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\test.cc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|D:\\Vs2022Project\\highpool\\highpool\\ThreadCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E086D9-AAFD-4058-B1EA-70C2AA1B8E4E}|highpool\\highpool.vcxproj|solutionrelative:highpool\\ThreadCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageMap.h",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\PageMap.h",
+              "RelativeDocumentMoniker": "highpool\\PageMap.h",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\PageMap.h",
+              "RelativeToolTip": "highpool\\PageMap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-28T12:43:42.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConcurrentAlloc.h",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\ConcurrentAlloc.h",
+              "RelativeDocumentMoniker": "highpool\\ConcurrentAlloc.h",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\ConcurrentAlloc.h",
+              "RelativeToolTip": "highpool\\ConcurrentAlloc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T14:58:39.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CentralCache.cpp",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\CentralCache.cpp",
+              "RelativeDocumentMoniker": "highpool\\CentralCache.cpp",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\CentralCache.cpp",
+              "RelativeToolTip": "highpool\\CentralCache.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T12:31:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectPool.h",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\ObjectPool.h",
+              "RelativeDocumentMoniker": "highpool\\ObjectPool.h",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\ObjectPool.h",
+              "RelativeToolTip": "highpool\\ObjectPool.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T07:46:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CentralCache.h",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\CentralCache.h",
+              "RelativeDocumentMoniker": "highpool\\CentralCache.h",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\CentralCache.h",
+              "RelativeToolTip": "highpool\\CentralCache.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T15:00:49.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PageCache.h",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\PageCache.h",
+              "RelativeDocumentMoniker": "highpool\\PageCache.h",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\PageCache.h",
+              "RelativeToolTip": "highpool\\PageCache.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-20T12:09:59.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageCache.cpp",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\PageCache.cpp",
+              "RelativeDocumentMoniker": "highpool\\PageCache.cpp",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\PageCache.cpp",
+              "RelativeToolTip": "highpool\\PageCache.cpp",
+              "ViewState": "AgIAAK8AAAAAAAAAAADwv7IAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T12:10:18.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Benchmarkcpp.cpp",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\Benchmarkcpp.cpp",
+              "RelativeDocumentMoniker": "highpool\\Benchmarkcpp.cpp",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\Benchmarkcpp.cpp",
+              "RelativeToolTip": "highpool\\Benchmarkcpp.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T08:14:49.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "test.cc",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\test.cc",
+              "RelativeDocumentMoniker": "highpool\\test.cc",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\test.cc",
+              "RelativeToolTip": "highpool\\test.cc",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv1QAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T15:03:16.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Common.h",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\Common.h",
+              "RelativeDocumentMoniker": "highpool\\Common.h",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\Common.h",
+              "RelativeToolTip": "highpool\\Common.h",
+              "ViewState": "AgIAACIBAAAAAAAAAAAiwCsBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-22T03:17:39.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThreadCache.cpp",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\ThreadCache.cpp",
+              "RelativeDocumentMoniker": "highpool\\ThreadCache.cpp",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\ThreadCache.cpp",
+              "RelativeToolTip": "highpool\\ThreadCache.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv08AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T15:13:52.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThreadCache.h",
+              "DocumentMoniker": "D:\\Vs2022Project\\highpool\\highpool\\ThreadCache.h",
+              "RelativeDocumentMoniker": "highpool\\ThreadCache.h",
+              "ToolTip": "D:\\Vs2022Project\\highpool\\highpool\\ThreadCache.h",
+              "RelativeToolTip": "highpool\\ThreadCache.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-21T16:18:42.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

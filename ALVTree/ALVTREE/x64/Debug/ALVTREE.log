@@ -1,0 +1,13 @@
+﻿  tets.cpp
+D:\Vs2022Project\ALVTREE\ALVTREE\AVLTree.h(369,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  (编译源文件“tets.cpp”)
+  
+D:\Vs2022Project\ALVTREE\ALVTREE\AVLTree.h(373,22): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\Vs2022Project\ALVTREE\ALVTREE\AVLTree.h(373,22): warning C4267:         with
+D:\Vs2022Project\ALVTREE\ALVTREE\AVLTree.h(373,22): warning C4267:         [
+D:\Vs2022Project\ALVTREE\ALVTREE\AVLTree.h(373,22): warning C4267:             _Ty=int
+D:\Vs2022Project\ALVTREE\ALVTREE\AVLTree.h(373,22): warning C4267:         ]
+  (编译源文件“tets.cpp”)
+  
+D:\Vs2022Project\ALVTREE\ALVTREE\AVLTree.h(127,1): warning C4715: “AVLTree<int,int>::Insert”: 不是所有的控件路径都返回值
+  ALVTREE.vcxproj -> D:\Vs2022Project\ALVTREE\x64\Debug\ALVTREE.exe
